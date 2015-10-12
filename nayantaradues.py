@@ -37,6 +37,13 @@ class ConstantFifteenPercent(BaseInterestModel):
         return "Interest of 15% per annum"
 
 
+class ConstantEighteenPercent(BaseInterestModel):
+    def getYearInterest(self, year):
+        return 0.18
+
+    def description(self):
+        return "Interest of 18% per annum"
+
 startyear = 1986
 endyear = 2015
 awardAmount = 50000.0
@@ -44,7 +51,8 @@ awardAmount = 50000.0
 models = [
     ConstantEightPercent(),
     ConstantTenPercent(),
-    ConstantFifteenPercent()
+    ConstantFifteenPercent(),
+    ConstantEighteenPercent()
 ]
 
 for curmodel in models:
