@@ -13,7 +13,7 @@ As reported in the Hindu article, she doesn't seem to remember well, what the aw
 
 # TODO
 
-A good thing would be to modify this program based on the varying interest rates as are reported [here](http://www.allbankingsolutions.com/Banking-Tutor/Chronology-Bank-Rate-India.shtml).  This should be fairly easy to do by writing another class modelling this varying rate of interest (just inherit from class BaseInterestModel).
+A good thing would be to modify this program based on the varying interest rates as are reported [here](http://www.allbankingsolutions.com/Banking-Tutor/Chronology-Bank-Rate-India.shtml).  This should be fairly easy to do by writing another class modelling this varying rate of interest (just inherit from class BaseInterestModel). Perhaps, this would be the fair model to use.
 
 
 # Summary
@@ -25,4 +25,4 @@ For those in hurry and don't want to run the program. Here's the current output 
 * Nayantara owes Sahitya Academy INR 2,878,772.69 (Interest of 15% per annum)
 * Nayantara owes Sahitya Academy INR 6,075,027.05 (Interest of 18% per annum) 
 
-Since, she has only returned INR 1,00,000, I guess, she has to return the balance amount.
+Since, she has only returned INR 100,000, I guess, she has to return the balance amount.
