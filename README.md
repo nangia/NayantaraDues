@@ -13,7 +13,9 @@ As reported in the Hindu article, she doesn't seem to remember well, what the aw
 
 # TODO
 
-A good thing would be to modify this program based on the varying interest rates as are reported [here](http://www.allbankingsolutions.com/Banking-Tutor/Chronology-Bank-Rate-India.shtml).  This should be fairly easy to do by writing another class modelling this varying rate of interest (just inherit from class BaseInterestModel). Perhaps, this would be the fair model to use.
+* A good thing would be to modify this program based on the varying interest rates as are reported [here](http://www.allbankingsolutions.com/Banking-Tutor/Chronology-Bank-Rate-India.shtml).  This should be fairly easy to do by writing another class modelling this varying rate of interest (just inherit from class BaseInterestModel). Perhaps, this would be the fair model to use.
+
+* [Gururaj](https://twitter.com/Equateall) pointed out that these awardees were given concessional prices for purchaing land by state/central governments. Hence, the money to be returned should also be based on the current prices of that land and the concessions given.
 
 
 # Summary
