@@ -20,7 +20,7 @@ A good thing would be to modify this program based on the varying interest rates
 For those in hurry and don't want to run the program. Here's the current output of the program based on various possible models that might be used:
 
 * Nayantara owes Sahitya Academy INR 465,863.74 (Interest of 8% per annum) 
-* Nayantara owes Sahitya Academy INR 7,390,039.90 (Interest of 10% per annum) 
-* Nayantara owes Sahitya Academy INR 425,484,901.22 (Interest of 15% per annum)
+* Nayantara owes Sahitya Academy INR 793,154.65 (Interest of 10% per annum) 
+* Nayantara owes Sahitya Academy INR 2,878,772.69 (Interest of 15% per annum) 
 
-Since, she has only returned INR 1,00,000, looks there she should write a cheque for the balance also. 
+Since, she has only returned INR 1,00,000, I guess, she has to return the balance amount.
