@@ -49,5 +49,5 @@ for curmodel in models:
         rateofinterest = curmodel.getYearInterest(year)
         amount = amount * (1 + rateofinterest/100)
 
-    print "Nayatara owes Sahitya Academy INR %s (%s) " % ("{:,.2f}".format(amount),
+    print "Nayantara owes Sahitya Academy INR %s (%s) " % ("{:,.2f}".format(amount),
                                                           curmodel.description())
