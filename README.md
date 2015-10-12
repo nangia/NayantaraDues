@@ -19,7 +19,6 @@ A good thing would be to modify this program based on the varying interest rates
 
 For those in hurry and don't want to run the program. Here's the current output of the program based on various possible models that might be used:
 
-* Nayatara owes Sahitya Academy Rs 931727 (Constant Interest of 8% per annum) 
-* Nayatara owes Sahitya Academy Rs 14780079 (Constant Interest of 10% per annum) 
-* Nayatara owes Sahitya Academy Rs 850969802 (Constant Interest of 15% per annum)
-
+* Nayantara owes Sahitya Academy INR 465,863.74 (Interest of 8% per annum) 
+* Nayantara owes Sahitya Academy INR 7,390,039.90 (Interest of 10% per annum) 
+* Nayantara owes Sahitya Academy INR 425,484,901.22 (Interest of 15% per annum) 
